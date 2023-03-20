@@ -1,0 +1,7 @@
+dataset/train
+dataset/test
+dataset/all_imgs
+dataset/test.csv
+dataset
+.vscode
+models
